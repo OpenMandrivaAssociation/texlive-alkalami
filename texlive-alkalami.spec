@@ -1,6 +1,6 @@
 Name:		texlive-alkalami
 Version:	44497
-Release:	1
+Release:	2
 Summary:	A font for Arabic-based writing systems in Nigeria and Niger
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/alkalami
