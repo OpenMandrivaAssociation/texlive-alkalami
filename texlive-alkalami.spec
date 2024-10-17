@@ -3,7 +3,7 @@ Version:	44497
 Release:	2
 Summary:	A font for Arabic-based writing systems in Nigeria and Niger
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/alkalami
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/alkalami
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/alkalami.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/alkalami.doc.r%{version}.tar.xz
